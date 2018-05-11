@@ -1,0 +1,6 @@
+config.vm.box - OS - for me windows
+config.vm.provider - virtualbox - same for me 
+config.vm.network - How your sees your box
+config.vm.synced_folder - How you  access files from your computer
+config.vm.provision - what we want to setup
+
